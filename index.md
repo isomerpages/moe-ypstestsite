@@ -29,7 +29,7 @@ sections:
       button: Button text
       url: /faq/
   - resources:
-      title: Recipe
-      subtitle: Training Videos by Date
+      title: Recipe Videos
+      subtitle: Announcement
       button: Recipe
 ---
