@@ -2,5 +2,6 @@ collections:
   training:
     output: true
     order:
+      - Yuliana's Training Video.md
       - how to add images.md
       - how to create image part 2.md
