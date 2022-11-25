@@ -4,8 +4,6 @@ links:
     url: /contact-us/
   - title: Announcement
     url: /example-page/
-  - title: Example Folder
-    collection: test-folder-daniel
   - title: Training Videos
     url: /permalink
     sublinks:
