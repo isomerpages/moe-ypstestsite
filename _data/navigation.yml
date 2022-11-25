@@ -13,4 +13,6 @@ links:
         url: /howtoaddimage/
   - title: "Daniel's Training "
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: how to kick a ball
+        url: /permalink
