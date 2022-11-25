@@ -51,4 +51,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2uuf0ivpnyj2s.amplifyapp.com
 prod: https://master.d2uuf0ivpnyj2s.amplifyapp.com
-resources_name: announcement-for-new-recipes
+resources_name: announcements
