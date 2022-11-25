@@ -5,7 +5,7 @@ links:
   - title: Announcement
     url: /example-page/
   - title: "Training "
-    url: /permalink
+    url: /training/
     sublinks:
       - title: Adding images
         url: //howtocreateimagepart2/
