@@ -11,8 +11,6 @@ links:
         url: //howtocreateimagepart2/
       - title: Adding Videos
         url: /howtoaddimage/
-  - title: "Daniel's Training "
-    url: /danielstraining
-    sublinks:
-      - title: how to kick a ball
-        url: /howtokickaball/
+  - title: Cooking Recipes
+    url: /cookingrecipes/
+    sublinks: []
