@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+**This is how you cook Nasi Goreng**
