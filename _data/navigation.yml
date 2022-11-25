@@ -6,3 +6,6 @@ links:
     url: /example-page/
   - title: Example Folder
     collection: test-folder-daniel
+  - title: training
+    url: /permalink
+    sublinks: []
