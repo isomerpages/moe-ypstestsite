@@ -29,7 +29,7 @@ sections:
       button: Button text
       url: /faq/
   - resources:
-      title: Recipe Videos
+      title: Check out our latest recipes
       subtitle: Announcement
       button: Recipe
 ---
