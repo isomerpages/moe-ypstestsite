@@ -4,7 +4,7 @@ links:
     url: /contact-us/
   - title: Announcement
     url: /example-page/
-  - title: Training Videos
+  - title: "Training "
     url: /permalink
     sublinks:
       - title: Adding images
