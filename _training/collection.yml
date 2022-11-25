@@ -1,4 +1,5 @@
 collections:
   training:
     output: true
-    order: []
+    order:
+      - how to add images.md
