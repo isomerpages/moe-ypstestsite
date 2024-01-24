@@ -1,0 +1,9 @@
+---
+title: Mee Goreng
+permalink: /announcement-for-new-recipes/asian-food/permalink/
+date: 2022-11-25
+layout: post
+description: ""
+image: ""
+---
+This is how you cook Mee Goreng

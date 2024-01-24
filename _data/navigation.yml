@@ -1,0 +1,18 @@
+logo: /images/isomer-logo.svg
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: Announcement
+    url: /example-page/
+  - title: "Training "
+    url: /training/
+    sublinks:
+      - title: Adding images
+        url: /howtocreateimagepart2/
+      - title: Adding Videos
+        url: /howtoaddimage/
+  - title: Cooking Recipes
+    url: /cookingrecipes/
+    sublinks:
+      - title: Aglio Olio
+        url: /AglioOlio

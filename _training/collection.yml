@@ -1,0 +1,5 @@
+collections:
+  training:
+    output: true
+    order:
+      - Yuliana's Training Video.md
