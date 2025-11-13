@@ -2,4 +2,5 @@ collections:
   announcement:
     output: true
     order:
+      - Year End Letter to Parents 20256.md
       - example-page.md
